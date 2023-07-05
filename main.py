@@ -1,12 +1,7 @@
-# def my_function():
-#     print("Hello")
-#     print("Bye")
+#https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
-# my_function()
 
-# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
-
-Task # 1
+# Task # 1
 
 def turn_right():
     turn_left()
@@ -28,7 +23,7 @@ move()
 turn_around()
 
 
-Task # 2
+# Task # 2
 
 def turn_right():
     turn_left()
@@ -51,7 +46,7 @@ while number_of_jumps > 0:
     number_of_jumps -= 1
 
     
-Task # 3
+# Task # 3
 
 def turn_right():
     turn_left()
@@ -72,7 +67,7 @@ while at_goal() == False:
     lap()
 
 
-Task # 4
+# Task # 4
 
 def turn_right():
     turn_left()
@@ -95,7 +90,7 @@ while at_goal() == False:
         jump()
 
 
-Task # 5
+# Task # 5
 
 def turn_right():
     turn_left()
@@ -120,7 +115,7 @@ while not at_goal():
         jump()
 
 
-Final Task
+# Final Task
 
 def turn_right():
     turn_left()
